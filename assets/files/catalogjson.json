@@ -1,0 +1,66 @@
+{
+    "products": [
+    {
+    "id": 1,
+    "name": "Apple iPhone12",
+    "desc": "Apple iPhone 12 Generation",
+    "price": 999,
+    "image": "assets/images/iiPhone.png"
+    },
+
+    {
+    "id": 2,
+    "name": "Apple iPhone12",
+    "desc": "Apple iPhone 12 Generation",
+    "price": 999,
+    "image": "assets/images/edited.png"
+    },
+        {
+            "id": 3,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/edited3.png"
+            },
+
+            {
+            "id": 4,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/edited4.png"
+            },
+
+            {
+            "id": 5,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/edited9.png"
+            },
+
+            {
+            "id": 6,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/image(8).png"
+            },
+
+            {
+            "id": 7,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/image(9).png"
+            },
+            
+            {
+            "id": 8,
+            "name": "Apple iPhone 12",
+            "desc": "Apple iPhone 12 Generation",
+            "price": 999,
+            "image": "assets/images/image(10).png"
+            }
+    ]
+}
